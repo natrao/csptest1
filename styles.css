@@ -1,0 +1,13 @@
+ <style>
+     body {
+          background-image: url("epic.jpg")
+        
+      }
+     h1 {
+         font: italic bold Georgia,;
+         color: white;
+        }     
+     p {
+       font: bold;
+       color: white;
+    </style>
