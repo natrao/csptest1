@@ -10,6 +10,11 @@ body {
        font: bold;
        color: white;
 }    
+
+ui {
+          font: bold;
+          color: white;
+}
           
 li {
      font: bold;
