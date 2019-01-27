@@ -6,6 +6,10 @@ body {
          font: italic bold Georgia,;
          color: white;
         }     
+     h2 {
+         font: italic bold Georgia,;
+         color: white;
+}
      p {
        font: bold;
        color: white;
